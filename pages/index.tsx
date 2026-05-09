@@ -95,7 +95,7 @@ export default function Home() {
         fontSize: '0.875rem',
         color: '#888'
       }}>
-        Built by Lisanne, a 16-year-old builder solving tiny but painful problems.
+        Built by Lisa, a 16-year-old builder solving tiny but painful problems.
         Because your playlist should sound like you, not everyone else.
       </footer>
     </main>

@@ -14,7 +14,7 @@ export default function Waitlist() {
 
     // Option 1: Google Forms
     // Replace with your Google Form URL
-    const googleFormUrl = 'YOUR_GOOGLE_FORM_URL'
+    const googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSeG-myc2EP7NjSADaRqbSkH_Sg5BimJutZiLOnBhfQyY-PGjw/formResponse'
     const formBody = new URLSearchParams()
     formBody.append('entry.XXXXXX', data.email as string)
     formBody.append('entry.YYYYYY', data.service as string)
