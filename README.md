@@ -59,3 +59,4 @@ Vercel hosting: free. Waitlist storage: free (Google Form / Notion free tier / K
 3. Run `./scripts/push-bluesky.sh playlist-ai` to publish first posts
 4. Monitor signups (Google Sheet / Notion / KV dashboard)
 5. If >50 signups in 3 days → build MVP; if <50 → tweak messaging
+# Redeploy Sat May  9 19:31:13 UTC 2026
